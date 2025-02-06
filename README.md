@@ -142,7 +142,7 @@ We welcome contributions! Please:
 
 ## 🔗 **Resources**  
 - 📖 **Official Docs**: [Coming Soon]  
-- 🛠 **API Reference**: [Coming Soon]  
+- 🛠 **API Reference**: https://predxagent.web.app  
 - 📨 **Support**: Open an issue on GitHub  
 
 ---
